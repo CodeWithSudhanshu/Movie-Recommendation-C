@@ -12,5 +12,7 @@ This was developed as a group project involving 4–5 members. My contributions 
 - Rating predictions using collaborative filtering
 - Recommended movies for each user
 
+## Output Screenshot
+![Program Output](Screenshot%202025-05-28%20124909.png)
 
 
